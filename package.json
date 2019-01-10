@@ -1,0 +1,19 @@
+{
+  "name": "graphql-json",
+  "version": "1.0.0",
+  "description": "GraphQL server based on a JSON file",
+  "main": "index.js",
+  "dependencies": {
+    "json-graphql-server": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GraphQL",
+    "JSON"
+  ],
+  "author": "Herbert Braun",
+  "license": "ISC"
+}
